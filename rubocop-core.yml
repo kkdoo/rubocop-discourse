@@ -42,8 +42,8 @@ Style/GlobalVars:
     - 'spec/**/*.rb'
     - 'plugins/*/spec/**/*'
 
-Style/InvertibleUnlessCondition:
-  Enabled: true
+#Style/InvertibleUnlessCondition:
+#  Enabled: true
 
 Style/NegatedUnless:
   Enabled: true
