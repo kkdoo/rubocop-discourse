@@ -10,8 +10,8 @@ RSpec/AroundBlock:
 RSpec/BeforeAfterAll:
   Enabled: true
 
-RSpec/ChangeByZero:
-  Enabled: true
+#RSpec/ChangeByZero:
+#  Enabled: true
 
 RSpec/ContextMethod:
   Enabled: true
@@ -96,11 +96,11 @@ RSpec/ExpectInHook:
 RSpec/ExpectOutput:
   Enabled: true
 
-RSpec/SpecFilePathFormat:
-  Enabled: false # To be decided
+#RSpec/SpecFilePathFormat:
+#  Enabled: false # To be decided
 
-RSpec/SpecFilePathSuffix:
-  Enabled: false # To be decided
+#RSpec/SpecFilePathSuffix:
+#  Enabled: false # To be decided
 
 RSpec/Focus:
   Enabled: true
